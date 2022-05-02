@@ -1,6 +1,6 @@
 # OBS Mute Source Visibility Toggle
 
-This repo contains files to toggle the visibility of a chosen OBS Studio Source **in the current scene** based on the "mute" state of an OBS Studio audio source. The state is automatically read by a Python script which then toggles the OBS Display Source.
+This repo contains [a script](https://github.com/rvikwd3/OBS-Mute-Source-Visibility-Toggle/blob/master/obs_mute_source_visibility_toggle.py) to toggle the visibility of a chosen OBS Studio Source **in the current scene** based on the "mute" state of an OBS Studio audio source. The state is automatically read by a Python script which then toggles the OBS Display Source.
 
 ## Script Installation and Setup
 The script only works with OBS Studio versions 21.x and later. If you have an older version you will need to update.
