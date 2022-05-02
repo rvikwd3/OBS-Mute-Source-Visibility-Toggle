@@ -198,7 +198,7 @@ def script_description():
     "<br/><br/>" + \
     "Ravikiran Kawade" + \
     "<br/>" + \
-    "github.com/rvikwd3"
+    "github.com/rvikwd3/OBS-Mute-Source-Visibility-Toggle"
 
 def script_load(settings):
   obs.timer_add(source_loading, 10)
